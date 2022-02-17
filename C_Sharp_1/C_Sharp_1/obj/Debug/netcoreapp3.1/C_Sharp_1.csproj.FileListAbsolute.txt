@@ -1,0 +1,13 @@
+C:\GIT\C_Sharp_1\C_Sharp_1\bin\Debug\netcoreapp3.1\C_Sharp_1.exe
+C:\GIT\C_Sharp_1\C_Sharp_1\bin\Debug\netcoreapp3.1\C_Sharp_1.deps.json
+C:\GIT\C_Sharp_1\C_Sharp_1\bin\Debug\netcoreapp3.1\C_Sharp_1.runtimeconfig.json
+C:\GIT\C_Sharp_1\C_Sharp_1\bin\Debug\netcoreapp3.1\C_Sharp_1.runtimeconfig.dev.json
+C:\GIT\C_Sharp_1\C_Sharp_1\bin\Debug\netcoreapp3.1\C_Sharp_1.dll
+C:\GIT\C_Sharp_1\C_Sharp_1\bin\Debug\netcoreapp3.1\C_Sharp_1.pdb
+C:\GIT\C_Sharp_1\C_Sharp_1\obj\Debug\netcoreapp3.1\C_Sharp_1.csprojAssemblyReference.cache
+C:\GIT\C_Sharp_1\C_Sharp_1\obj\Debug\netcoreapp3.1\C_Sharp_1.AssemblyInfoInputs.cache
+C:\GIT\C_Sharp_1\C_Sharp_1\obj\Debug\netcoreapp3.1\C_Sharp_1.AssemblyInfo.cs
+C:\GIT\C_Sharp_1\C_Sharp_1\obj\Debug\netcoreapp3.1\C_Sharp_1.csproj.CoreCompileInputs.cache
+C:\GIT\C_Sharp_1\C_Sharp_1\obj\Debug\netcoreapp3.1\C_Sharp_1.dll
+C:\GIT\C_Sharp_1\C_Sharp_1\obj\Debug\netcoreapp3.1\C_Sharp_1.pdb
+C:\GIT\C_Sharp_1\C_Sharp_1\obj\Debug\netcoreapp3.1\C_Sharp_1.genruntimeconfig.cache
